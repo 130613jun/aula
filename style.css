@@ -26,7 +26,8 @@
 }
 
 .rodape{
-    background-color: rgb(255, 255, 255);
-    color: brown;
+    background-image: linear-gradient(rgb(99, 29, 29), white);
+    color: red;
+    font-size: 20px;
 }
 
