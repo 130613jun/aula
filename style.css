@@ -8,12 +8,15 @@
     background-image: linear-gradient(black, rgb(112, 53, 53));
     color: azure;
     display: flex;
-    padding: 24px 0;
+    padding: 10px 0;
+    justify-content: space-around;
 }
 
 .section1{
     background-image: linear-gradient(rgb(112, 53, 53), brown);
     padding: 100px;
+    display: flex;
+    justify-content: space-around;
 } 
 
 .section2{
@@ -22,7 +25,7 @@
 }
 
 .cabecalho-imagem{
-    width: 2%;
+    width: 30%;
 }
 
 .rodape{
@@ -30,4 +33,9 @@
     color: red;
     font-size: 20px;
 }
+
+.imgsartre`{
+    padding-right: 100px;
+}
+
 
