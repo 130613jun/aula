@@ -1,3 +1,9 @@
+
+
+
+
+
+
 .cabecalho{
     background-image: linear-gradient(black, rgb(112, 53, 53));
     color: azure;
@@ -6,12 +12,12 @@
 }
 
 .section1{
-    background-image: linear-gradient(rgb(112, 53, 53), rgb(134, 50, 50));
+    background-image: linear-gradient(rgb(112, 53, 53), brown);
     padding: 100px;
 } 
 
 .section2{
-    background-image: linear-gradient(rgb(134, 50, 50),rgb(99, 29, 29) );
+    background-image: linear-gradient(brown,rgb(99, 29, 29));
     padding: 100px;
 }
 
